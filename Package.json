@@ -1,0 +1,18 @@
+{
+  "name": "team-update-bot",
+  "version": "1.0.0",
+  "description": "Discord.js v14 Team Update Bot with 7 customizable slash commands",
+  "main": "index.js",
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "@discordjs/rest": "^1.5.0",
+    "discord-api-types": "^0.37.50"
+  }
+}
